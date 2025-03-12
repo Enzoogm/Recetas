@@ -1,0 +1,35 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex e0df0ac..13c91cf 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,3 +1,3 @@[m
+ # Recetas[m
+[31m-Listado de recetas..[m
+[32m+[m[32mListado de recetas....[m
+ [m
+[1mdiff --git a/Receta.md b/Receta.md[m
+[1mindex 71bdbdb..06cc6b0 100644[m
+[1m--- a/Receta.md[m
+[1m+++ b/Receta.md[m
+[36m@@ -8,3 +8,20 @@[m [mIngredientes:[m
+     175 mililitros de Café muy fuerte, recién hecho y enfriado[m
+     200 gramos de Chocolate negro rallado[m
+     1 pizca de Cacao en polvo[m
+[32m+[m
+[32m+[m[32mCómo hacer Tiramisú:[m
+[32m+[m[32m1. Mezclaremos el café con un buen chorro de Amaretto.[m
+[32m+[m
+[32m+[m[32m2. Cogemos un bol y mezclamos las yemas de huevo con el azúcar glass hasta integrar por completo.[m
+[32m+[m
+[32m+[m[32m3. Cogemos otro recipiente y batimos las claras a punto de nieve.[m
+[32m+[m
+[32m+[m[32m4. Retomamos el bol donde mezclamos las yemas con el azúcar e incorporamos el queso Mascarpone, mezclamos bien. Una vez incorporado, añadimos las claras a punto de nieve poco a poco y las integramos realizando movimientos lentos de abajo hacia arriba.[m
+[32m+[m
+[32m+[m[32m5. Cogemos la fuente o molde donde tenemos previsto elaborar el tiramisú casero y empezamos a montarlo. Para ello, colocamos una capa de bizcochos de soletilla en el fondo, previamente bañados en la mezcla de café y Amaretto.[m
+[32m+[m
+[32m+[m[32m6. Luego, añadimos una buena capa de la mezcla de yemas, claras, queso Mascarpone y azúcar. Espolvoreamos de forma uniforme el chocolate rallado y volvemos a colocar otra capa de bizcochos empapados en café.[m
+[32m+[m
+[32m+[m[32m7. Para finalizar el tiramisú casero, colocamos otra capa de crema y espolvoreamos una buena cantidad de cacao en polvo.[m
+[32m+[m
+[32m+[m[32m8. Podéis hacer vuestro tiramisú en un molde más o grande o en fuentes individuales, o añadir más o menos capas de bizcochos. Reservamos el tiramisú en el frigorífico durante 12-24 horas para que cuaje bien y esté perfecto.[m
+\ No newline at end of file[m
